@@ -1,0 +1,24 @@
+.principal{
+    background-color: aquamarine;
+    /*width: 600px;
+    height: 600px;*/
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.contenedor{
+    display: flex;
+    flex-direction: column;
+}
+.caja{
+    background-color: gold;
+    width: 300px;
+    height: 300px;
+    margin: 5px;
+}
+.caja1{
+    background-color: darkorange;
+   /* width: 200px;*/
+   margin: 5px;
+    height: 200px;
+}
